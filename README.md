@@ -1,10 +1,10 @@
 Estratégia de Crescimento de Receita do Hotel: Análise Estratégica & Recomendações
 
-- Visão Geral
+📊 Visão Geral
 
 Este repositório contém uma análise estratégica completa de um case de negócios real, focado em aumentar a receita anual de um hotel em 20%, saindo de R$ 11,6M para R$ 13,9M. A análise foi conduzida através de metodologia robusta de ciência de dados, combinando análise exploratória (EDA), modelagem de cenários e recomendações estratégicas baseadas em dados.
 
-- Objetivo Principal
+🎯 Objetivo Principal
 
 Identificar alavancas de crescimento de receita através da análise de 119.390 reservas históricas, estruturando recomendações em torno de três pilares estratégicos:
 
@@ -20,7 +20,7 @@ Mix de Clientes
 
 
 
-- Resultados Principais
+📈 Resultados Principais
 
 Métrica
 Valor
@@ -45,7 +45,7 @@ Clientes Recorrentes
 
 
 
-- Insights Principais
+🔍 Insights Principais
 
 1. Vazamento de Receita por Cancelamentos
 
@@ -94,30 +94,46 @@ Potencial: Aumentar recorrência para 8% geraria R$ 580 mil em receita adicional
 
 
 
-Metodologia de Análise
+📊 Metodologia de Análise
 
 Estrutura Analítica
 
 A análise foi estruturada em torno de uma árvore de hipóteses com três pilares estratégicos:
 
-Plain Text
-
-
 Crescimento de Receita (Meta: +20%)
-├── Preço (ADR)
-│   ├── Revenue Management Dinâmico
-│   ├── Otimização de Precificação por Segmento
-│   └── Estratégias de Sazonalidade
-├── Volume (Ocupação)
-│   ├── Redução de Cancelamentos
-│   ├── Aumento de Lead Time
-│   └── Expansão de Capacidade
-└── Mix de Clientes
-    ├── Fidelização de Clientes
-    ├── Fortalecimento do Canal Direto
-    └── Segmentação de Mercado
 
+1. Preço (ADR)
 
+•
+Revenue Management Dinâmico
+
+•
+Otimização de Precificação por Segmento
+
+•
+Estratégias de Sazonalidade
+
+2. Volume (Ocupação)
+
+•
+Redução de Cancelamentos
+
+•
+Aumento de Lead Time
+
+•
+Expansão de Capacidade
+
+3. Mix de Clientes
+
+•
+Fidelização de Clientes
+
+•
+Fortalecimento do Canal Direto
+
+•
+Segmentação de Mercado
 
 Ferramentas e Tecnologias
 
@@ -233,7 +249,7 @@ Métricas de Sucesso e KPIs
 
 
 
-- Recomendações Estratégicas
+🎯 Recomendações Estratégicas
 
 Rota Recomendada: Otimista (+13,14%)
 
@@ -320,7 +336,7 @@ Ação: Ajustar políticas de antecedência de reserva
 
 
 
-- Estrutura do Repositório
+📁 Estrutura do Repositório
 
 Plain Text
 
@@ -340,7 +356,7 @@ Plain Text
 
 
 
-- Como Usar Este Repositório
+🚀 Como Usar Este Repositório
 
 Pré-requisitos
 
@@ -409,7 +425,7 @@ Cenários de Impacto: Comparação visual dos cenários conservador e otimista
 
 
 
-- Métricas de Sucesso
+📈 Métricas de Sucesso
 
 Para validar a implementação das recomendações, monitore:
 
@@ -459,7 +475,7 @@ Dashboard Power BI: Receita - insider - Visualizações interativas em tempo rea
 
 
 
-Autor
+👤 Autor
 
 Samantha Batisti
 
@@ -470,7 +486,16 @@ GitHub: @Sam-Batisti
 LinkedIn: Samantha Batisti
 
 
-- Contribuições
+
+
+📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
+
+🤝 Contribuições
 
 Sugestões e melhorias são bem-vindas! Sinta-se livre para:
 
@@ -486,12 +511,12 @@ Compartilhar insights adicionais
 
 
 
-- Contato
+📧 Contato
 
 Para dúvidas sobre a análise ou metodologia, entre em contato através de:
 
 •
-Email: samantha.pbatisti@gmail.com
+Email: samantha.batisti@email.com
 
 •
 GitHub Issues: Abrir uma issue
@@ -504,7 +529,7 @@ GitHub Issues: Abrir uma issue
 
 
 
-- Referências
+📚 Referências
 
 •
 Análise de Receita Hoteleira: Melhores Práticas em Revenue Management
@@ -522,4 +547,5 @@ Estratégias de Precificação Dinâmica em Hotelaria
 
 
 Nota: Este é um case de negócios real utilizado para fins de análise estratégica e demonstração de habilidades em ciência de dados, análise de negócios e tomada de decisão baseada em dados.
+
 
