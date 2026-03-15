@@ -20,7 +20,7 @@ Mix de Clientes
 
 
 
-📈 Resultados Principais
+- Resultados Principais
 
 Métrica
 Valor
@@ -233,7 +233,7 @@ Métricas de Sucesso e KPIs
 
 
 
-🎯 Recomendações Estratégicas
+- Recomendações Estratégicas
 
 Rota Recomendada: Otimista (+13,14%)
 
