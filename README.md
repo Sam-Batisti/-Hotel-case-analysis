@@ -332,30 +332,6 @@ Esforço: Baixo
 Ação: Ajustar políticas de antecedência de reserva
 
 
-
-
-
-
-📁 Estrutura do Repositório
-
-Plain Text
-
-
--Hotel-case-analysis/
-├── README.md                          # Este arquivo
-├── Case_hotel_Insider.ipynb          # Notebook com análise completa
-├── data/
-│   └── hotel_reservas.xlsx           # Base de dados de reservas
-└── docs/
-    ├── executive_summary.md          # Resumo executivo
-    ├── matriz_decisao.md             # Matriz de priorização
-    └── plano_implementacao.md        # Plano de ação detalhado
-
-
-
-
-
-
 🚀 Como Usar Este Repositório
 
 Pré-requisitos
