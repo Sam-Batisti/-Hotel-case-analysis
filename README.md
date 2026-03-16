@@ -492,7 +492,7 @@ Compartilhar insights adicionais
 Para dúvidas sobre a análise ou metodologia, entre em contato através de:
 
 •
-Email: samantha.batisti@email.com
+Email: samantha.pbatisti@gmail.com
 
 •
 GitHub Issues: Abrir uma issue
